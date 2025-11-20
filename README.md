@@ -1,2 +1,2 @@
 # Data-Analysis-of-Bank-Marketing-Campaign
-Python-based analysis of a bank marketing campaign, including data cleaning, EDA, feature engineering, and classification modeling (Logistic Regression, SVM) to understand customer behavior and generate actionable insights.
+A comprehensive data analysis of a bank marketing campaign using Python. This project includes data cleaning, exploratory data analysis, feature engineering, and classification modeling to understand customer behavior. Implemented models include Logistic Regression and Support Vector Classifier, with insights derived from numerical, categorical, social, and economic features. The repository demonstrates end-to-end data analysis workflow and interpretable results for informed decision-making.
